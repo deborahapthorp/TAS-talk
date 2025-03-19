@@ -1,0 +1,59 @@
+---
+title: "Why study Psychology at UNE?"
+author: "A/Prof. Deborah Apthorp"
+format: 
+  revealjs: 
+    theme: sky
+    incremental: true
+    preview-links: auto
+    slide-number: true
+    logo: images/UNE_logo.png
+    css: logo.css
+    pdf-max-pages-per-slide: 4
+editor: source
+---
+
+## What is psychology? 
+ - Wikipedia: "The scientific study of mind and behaviour"
+ - **Scientific**! 
+ 
+
+## What kinds of things do psychologists study? 
+
+
+## What I study
+
+
+## Why do psychology at UNE? 
+
+
+## How to apply for Psychology at UNE
+
+
+## {.smaller}
+
+```{mermaid}
+flowchart TD
+    A{YOU} --> B[Pathways]
+    B --> C[Diploma of Psychology]
+    C --> D[Bachelor of Psychology]
+    D --> E[Honours - 4th year]
+    E --> F[Masters of Prof. Psych.]
+    F --> G[Master of Psych - Clinical]
+   E --> H(Master of Social Work)
+  E --> I(Master of Counselling)
+  E --> J[Ph.D]
+  D --> H
+  D --> I
+  A --> C
+  A --> D
+
+
+```
+
+
+
+##
+
+
+
