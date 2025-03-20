@@ -15,7 +15,7 @@ editor: source
 
 ## Slides are available online
 
-
+![[bit.ly/unepsych](https://bit.ly/unepsych)](images/qrcode.png)
 
 ## What is psychology?
 
