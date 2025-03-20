@@ -68,7 +68,7 @@ editor: source
 -   Many career options!
 -   Multiple pathways & options 
 
-# How to apply for Psychology at UNE
+# How to apply for Psychology at UNE {background-color="black" background-image="images/flowers.png"}
 
 ## Entry options
 
@@ -100,6 +100,12 @@ flowchart TD
 
 
 ```
+
+## What is a credit point? 
+
+> All psychology units are 6 cps - ~150 Hours - or 12-15 hours per teaching week - for an *average* student to achieve *average* results 
+
+![](images/study.jpg){fig-align="center"}
 
 ## Core units {.smaller}
 
@@ -215,3 +221,5 @@ flowchart TD
 ::: footer
 \*Available in T3
 :::
+
+# Questions? {background-color="black" background-image="images/lookingglass3.png"}
