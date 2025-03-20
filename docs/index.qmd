@@ -19,12 +19,17 @@ editor: source
 
 ## What is psychology?
 
--   Wikipedia: "The scientific study of mind and behaviour"
+-   [Wikipedia](https://en.wikipedia.org/wiki/Psychology): "The scientific study of mind and behaviour"
 -   **Scientific**!
 
-## What kinds of things do psychologists study?
+::: {.fragment}
+> "Its subject matter includes the behavior of humans and nonhumans, both [conscious](https://en.wikipedia.org/wiki/Consciousness) and [unconscious](https://en.wikipedia.org/wiki/Unconscious_mind) phenomena, and mental processes such as [thoughts](https://en.wikipedia.org/wiki/Thought), [feelings](https://en.wikipedia.org/wiki/Feeling), and [motives](https://en.wikipedia.org/wiki/Motivation)."
 
-::: columns
+:::
+
+## What kinds of things do psychologists study? {.smaller}
+
+::::: columns
 ::: {.column width="50%"}
 -   Personality
 -   Social psychology
@@ -32,7 +37,6 @@ editor: source
 -   Perception (how we perceive things - not just vision)
 -   Neuroscience (brains!! - mostly)
 -   Research methods & statistics (how to do better science!)
-
 :::
 
 ::: {.column width="50%"}
@@ -41,10 +45,10 @@ editor: source
 -   Evolutionary psychology
 -   Forensic psychology
 -   Organisational psychology
--   And much more! 
+-   Educational psychology
+-   And much more!
 :::
-
-:::
+:::::
 
 ## What I study {.smaller}
 
@@ -54,16 +58,26 @@ editor: source
 -   Could these provide early diagnosis for Parkinson's disease?
 -   We use machine learning (AI) and statistics on the data we collect
 -   We've also recently started looking at eye movements & what they can tell us about the brain
-- I also do a bit of meta-science (the science of science)
+-   I also do a bit of meta-science (the science of science)
 
 ## Why do psychology at UNE?
 
-- We have a super supportive team 
-- 24-hour tutoring available 
-- Clear course structure 
-- Many career options! 
+-   We have a super supportive team
+-   24-hour tutoring available
+-   Clear course structure
+-   Many career options!
+-   Multiple pathways & options 
 
-## How to apply for Psychology at UNE
+# How to apply for Psychology at UNE
+
+## Entry options
+
+-   [Bachelor of Psychological Science](https://www.une.edu.au/study/courses/bachelor-of-psychological-science)
+-   Guaranteed ATAR of 70 - apply through UAC
+-   [Diploma of Psychology](https://www.une.edu.au/study/courses/diploma-in-psychological-science) - guaranteed ATAR of 60
+-   Early Entry program - be guaranteed a place before you get your ATAR!
+-   [UNE Early Entry](https://www.une.edu.au/study/study-on-campus/early-entry) or [UAC Schools Recommendation](https://www.uac.edu.au/future-applicants/scholarships-and-schemes/schools-recommendation-schemes/institution-specific-srs-criteria)
+-   [Pathways enabling course](https://www.une.edu.au/study/courses/pathways-enabling-course) - if you didn't finish year 12 or didn't get the required ATAR
 
 ##  {.smaller}
 
@@ -84,19 +98,41 @@ flowchart TD
   A --> D
 
 
+
 ```
 
-## Entry options
+## Core units {.smaller}
 
-- [Bachelor of Psychological Science](https://www.une.edu.au/study/courses/bachelor-of-psychological-science)
-- Guaranteed ATAR of 70 - apply through UAC
-- [Diploma of Psychology](https://www.une.edu.au/study/courses/diploma-in-psychological-science) - guaranteed ATAR of 60
-- Early Entry program - be guaranteed a place before you get your ATAR!
-- [UNE Early Entry](https://www.une.edu.au/study/study-on-campus/early-entry) or [UAC Schools Recommendation](https://www.uac.edu.au/future-applicants/scholarships-and-schemes/schools-recommendation-schemes/institution-specific-srs-criteria)
-- [Pathways enabling course](https://www.une.edu.au/study/courses/pathways-enabling-course) - if you didn't finish year 12 or didn't get the required ATAR
+### Diploma in Psychological Science
 
+| Unit code | Name                                   | Pre-requisites |
+|-----------|----------------------------------------|----------------|
+| PSYC 101  | Introductory Psychology I              | N/A            |
+| PSYC 102  | Introductory Psychology II             | N/A            |
+| PSYC 200  | Social Psychology                      | PSYC 101 & 102 |
+| PSYC 202  | Research Methods & Statistics          | PSYC 101 & 102 |
+| PSYC 206  | Cognitive Psychology                   | PSYC 101 & 102 |
+| PSYC 213  | Lifespan Developmental Psychology      | PSYC 101 & 102 |
+|           | PLUS ANY TWO 3rd YEAR PSYCHOLOGY UNITS |                |
 
-## Core units - B. Psychological Science {.smaller}
+## Third year units (any 2) {.smaller}
+
+### Diploma in Psychological Science
+
+|  |  |  |
+|------------------------|------------------------|------------------------|
+| PSYC 304 - Health psychology | PSC 306 - Organisational Psychology | PSYC 307 - Motivation & Emotion |
+| PSYC 308 - Sports Psychology | PSYC 309 - Cognitive & Affective Neuroscience | PSYC 314 - Behaviour Modification |
+| PSYC 315 - Environmental Psychology \* | PSYC 363 - Psychpathology | PSYC 366 - Biological Psychology |
+| PSYC 371 - Individual Differences and Assessment | PSYC 372 - Advanced Research Methods & Statistics |  |
+
+::: footer
+\*Available in T3
+:::
+
+## Core units {.smaller}
+
+### Bachelor of Psychological Science
 
 | Unit code | Name                                   | Pre-requisites   |
 |-----------|----------------------------------------|------------------|
@@ -111,10 +147,10 @@ flowchart TD
 | PSYC 371  | Advanced Research Methods & Statistics | As above         |
 | PSYC 372  | Individual Differences & Assessment    | As above         |
 
-## Electives  {.smaller}
+## Electives {.smaller}
 
 | Unit code | Name | Pre-requisites |
-|-----------------|-------------------------------|------------------------|
+|------------------|------------------------------|------------------------|
 | PSYC 304 | Health Psychology | 18cp at 200 level in PSYC incl. PSYC202 |
 | PSYC 307 | Motivation and Emotion | PSYC 101 & 102 |
 | PSYC 308 | Sports & Exercise Psychology | PSYC 101 |
@@ -126,24 +162,26 @@ flowchart TD
 :::
 
 ## Psychology Health and Well-Being {.smaller}
-### Minor (Mandatory) + electives (60cps) 
+
+### Minor (Mandatory) + electives (60cps)
 
 | Unit code | Name | Pre-requisites |
-|-----------------|-------------------------------|------------------------|
+|------------------|------------------------------|------------------------|
 | PSYC 304 | Health Psychology | 18cp at 200 level in PSYC incl. PSYC202 |
 | PSYC 307 | Motivation and Emotion | PSYC 101 & 102 |
 | PSYC 308 | Sports & Exercise Psychology | PSYC 101 |
 | PSYC 314 | Behaviour Modification: Learning Principles Applied | PSYC 101 & 102 |
 
 ## Criminology Minor {.smaller}
+
 ### (Optional) + electives (36cps)
 
 | Unit code | Name | Pre-requisites |
-|-----------------|-------------------------------|------------------------|
-| CRIM 107 \*| Victimology| N/A |
-| CRIM 208 | Drugs, Alcohol and Crime | 24 cp|
+|------------------|------------------------------|------------------------|
+| CRIM 107 \* | Victimology | N/A |
+| CRIM 208 | Drugs, Alcohol and Crime | 24 cp |
 | CRIM 345 | Criminological Perspectives | 12cp in CRIM coded units or 24cp |
-| CRIM 305 \# | Working With Offenders| Any 6cp and (CRIM100 or CRIM101 or CRIM104 or SOCY104); or 24cp |
+| CRIM 305 \# | Working With Offenders | Any 6cp and (CRIM100 or CRIM101 or CRIM104 or SOCY104); or 24cp |
 
 ::: footer
 \*Available in T3
@@ -151,7 +189,29 @@ flowchart TD
 \# Not offered in 2025
 :::
 
+## Other electives of interest {.smaller}
 
-## Other electives you might be interested in 
+| Unit code  | Name                                   | Pre-requisites |
+|------------|----------------------------------------|----------------|
+| WRIT 101\* | The Craft of Academic Writing          | N/A            |
+| PSYC 306   | Organisational Psychology              | PSYC 101 & 102 |
+| OORA 200   | Working with Aboriginal People         | N/A            |
+| OORA 300   | Aboriginal Resilience and the Arts     | Any 24 cp      |
+| HLTH 103\* | Communication for Health Professionals | N/A            |
 
+::: footer
+\*Available in T3
+:::
 
+## Other electives of interest {.smaller}
+
+| Unit code | Name | Pre-requisites |
+|------------------|-------------------------------------|------------------|
+| PSYC 309 | Cognitive, Affective & Social Neuroscience | PSYC 101 & 102 + PSYC206 or 18cp in NEUR |
+| SOC 345 | Mixed Methods in Social Research | Any 12cp or candidature in postgrad award |
+| STAT 100\* | Introduction to Statistical Modelling | N/A |
+| NEUR 232 | Neuroanatomy (mandatory on-campus intensive school) | 48 cp or candidature in postgrad award |
+
+::: footer
+\*Available in T3
+:::
