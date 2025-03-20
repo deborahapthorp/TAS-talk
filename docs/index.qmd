@@ -13,24 +13,59 @@ format:
 editor: source
 ---
 
-## What is psychology? 
- - Wikipedia: "The scientific study of mind and behaviour"
- - **Scientific**! 
- 
-
-## What kinds of things do psychologists study? 
+## Slides are available online
 
 
-## What I study
 
+## What is psychology?
 
-## Why do psychology at UNE? 
+-   Wikipedia: "The scientific study of mind and behaviour"
+-   **Scientific**!
 
+## What kinds of things do psychologists study?
+
+::: columns
+::: {.column width="50%"}
+-   Personality
+-   Social psychology
+-   Cognitive psychology (how we think)
+-   Perception (how we perceive things - not just vision)
+-   Neuroscience (brains!! - mostly)
+-   Research methods & statistics (how to do better science!)
+
+:::
+
+::: {.column width="50%"}
+-   Developmental psychology
+-   Animal behaviour
+-   Evolutionary psychology
+-   Forensic psychology
+-   Organisational psychology
+-   And much more! 
+:::
+
+:::
+
+## What I study {.smaller}
+
+-   Started out in perception (vision science - how we see things move)
+-   Moved on to cognitive neuroscience (how our brains work)
+-   EEG and postural sway
+-   Could these provide early diagnosis for Parkinson's disease?
+-   We use machine learning (AI) and statistics on the data we collect
+-   We've also recently started looking at eye movements & what they can tell us about the brain
+- I also do a bit of meta-science (the science of science)
+
+## Why do psychology at UNE?
+
+- We have a super supportive team 
+- 24-hour tutoring available 
+- Clear course structure 
+- Many career options! 
 
 ## How to apply for Psychology at UNE
 
-
-## {.smaller}
+##  {.smaller}
 
 ```{mermaid}
 flowchart TD
@@ -51,9 +86,72 @@ flowchart TD
 
 ```
 
+## Entry options
+
+- [Bachelor of Psychological Science](https://www.une.edu.au/study/courses/bachelor-of-psychological-science)
+- Guaranteed ATAR of 70 - apply through UAC
+- [Diploma of Psychology](https://www.une.edu.au/study/courses/diploma-in-psychological-science) - guaranteed ATAR of 60
+- Early Entry program - be guaranteed a place before you get your ATAR!
+- [UNE Early Entry](https://www.une.edu.au/study/study-on-campus/early-entry) or [UAC Schools Recommendation](https://www.uac.edu.au/future-applicants/scholarships-and-schemes/schools-recommendation-schemes/institution-specific-srs-criteria)
+- [Pathways enabling course](https://www.une.edu.au/study/courses/pathways-enabling-course) - if you didn't finish year 12 or didn't get the required ATAR
 
 
-##
+## Core units - B. Psychological Science {.smaller}
 
+| Unit code | Name                                   | Pre-requisites   |
+|-----------|----------------------------------------|------------------|
+| PSYC 101  | Introductory Psychology I              | N/A              |
+| PSYC 102  | Introductory Psychology II             | N/A              |
+| PSYC 200  | Social Psychology                      | PSYC 101 & 102   |
+| PSYC 202  | Research Methods & Statistics          | PSYC 101 & 102   |
+| PSYC 206  | Cognitive Psychology                   | PSYC 101 & 102   |
+| PSYC 213  | Lifespan Developmental Psychology      | PSYC 101 & 102   |
+| PSYC 363  | Psychopathology                        | All of the above |
+| PSYC 366  | Biopsychology                          | As above         |
+| PSYC 371  | Advanced Research Methods & Statistics | As above         |
+| PSYC 372  | Individual Differences & Assessment    | As above         |
+
+## Electives  {.smaller}
+
+| Unit code | Name | Pre-requisites |
+|-----------------|-------------------------------|------------------------|
+| PSYC 304 | Health Psychology | 18cp at 200 level in PSYC incl. PSYC202 |
+| PSYC 307 | Motivation and Emotion | PSYC 101 & 102 |
+| PSYC 308 | Sports & Exercise Psychology | PSYC 101 |
+| PSYC 314 | Behaviour Modification: Learning Principles Applied | PSYC 101 & 102 |
+| PSYC 315\* | Psychological Science and the Environment | 48 cp or candiature in a postgraduate award |
+
+::: footer
+\*Available in T3
+:::
+
+## Psychology Health and Well-Being {.smaller}
+### Minor (Mandatory) + electives (60cps) 
+
+| Unit code | Name | Pre-requisites |
+|-----------------|-------------------------------|------------------------|
+| PSYC 304 | Health Psychology | 18cp at 200 level in PSYC incl. PSYC202 |
+| PSYC 307 | Motivation and Emotion | PSYC 101 & 102 |
+| PSYC 308 | Sports & Exercise Psychology | PSYC 101 |
+| PSYC 314 | Behaviour Modification: Learning Principles Applied | PSYC 101 & 102 |
+
+## Criminology Minor {.smaller}
+### (Optional) + electives (36cps)
+
+| Unit code | Name | Pre-requisites |
+|-----------------|-------------------------------|------------------------|
+| CRIM 107 \*| Victimology| N/A |
+| CRIM 208 | Drugs, Alcohol and Crime | 24 cp|
+| CRIM 345 | Criminological Perspectives | 12cp in CRIM coded units or 24cp |
+| CRIM 305 \# | Working With Offenders| Any 6cp and (CRIM100 or CRIM101 or CRIM104 or SOCY104); or 24cp |
+
+::: footer
+\*Available in T3
+
+\# Not offered in 2025
+:::
+
+
+## Other electives you might be interested in 
 
 
