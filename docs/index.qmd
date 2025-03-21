@@ -155,35 +155,36 @@ flowchart TD
 
 ## Electives {.smaller}
 
-| Unit code  | Name                                                |     |
-|------------|-----------------------------------------------------|-----|
-| PSYC 304   | Health Psychology                                   |     |
-| PSYC 307   | Motivation and Emotion                              |     |
-| PSYC 308   | Sports & Exercise Psychology                        |     |
-| PSYC 314   | Behaviour Modification: Learning Principles Applied |     |
-| PSYC 315\* | Psychological Science and the Environment           |     |
+| Unit code  | Name                                                | 
+|----------------|-----------------------------------------------------|
+| PSYC 304   | Health Psychology                                   |  
+| PSYC 307   | Motivation and Emotion                              |     
+| PSYC 308   | Sports & Exercise Psychology                        |     
+| PSYC 309   | Cognitive, Affective & Social Neuroscience          |
+| PSYC 314   | Behaviour Modification: Learning Principles Applied |     
+| PSYC 315\* | Psychological Science and the Environment           |     
 
 ::: footer
 \*Available in T3
 :::
 
-## Psychology Health and Well-Being {.smaller}
+## Psychology Health and Well-Being
 
 ### Minor (Mandatory) + electives (60cps)
 
 | Unit code | Name                                                |
-|-----------|-----------------------------------------------------|
+|---------------------|-----------------------------------------------------|
 | PSYC 304  | Health Psychology                                   |
 | PSYC 307  | Motivation and Emotion                              |
 | PSYC 308  | Sports & Exercise Psychology                        |
 | PSYC 314  | Behaviour Modification: Learning Principles Applied |
 
-## Criminology Minor {.smaller}
+## Criminology Minor
 
 ### (Optional) + electives (36cps)
 
 | Unit code   | Name                        |     |
-|-------------|-----------------------------|-----|
+|----------------------|-----------------------------|-----|
 | CRIM 107 \* | Victimology                 |     |
 | CRIM 208    | Drugs, Alcohol and Crime    |     |
 | CRIM 345    | Criminological Perspectives |     |
@@ -204,7 +205,6 @@ flowchart TD
 | OORA 200   | Working with Aboriginal People         |
 | OORA 300   | Aboriginal Resilience and the Arts     |
 | HLTH 103\* | Communication for Health Professionals |
-| PSYC 309   | Cognitive, Affective & Social Neuroscience          |
 | SOC 345    | Mixed Methods in Social Research                    |
 | STAT 100\* | Introduction to Statistical Modelling               |
 | NEUR 232   | Neuroanatomy (mandatory on-campus intensive school) |
@@ -213,14 +213,5 @@ flowchart TD
 \*Available in T3
 :::
 
-## Other electives of interest
-
-| Unit code  | Name                                                |
-|------------|-----------------------------------------------------|
-
-
-::: footer
-\*Available in T3
-:::
 
 # Questions? {background-color="black" background-image="images/lookingglass3.png"}
