@@ -183,18 +183,41 @@ flowchart TD
 
 ### (Optional) + electives (36cps)
 
-| Unit code   | Name                        |     |
-|----------------------|-----------------------------|-----|
-| CRIM 107 \* | Victimology                 |     |
-| CRIM 208    | Drugs, Alcohol and Crime    |     |
-| CRIM 345    | Criminological Perspectives |     |
-| CRIM 305 \# | Working With Offenders      |     |
+| Unit code   | Name                        | 
+|----------------------|-----------------------------|
+| CRIM 107 \* | Victimology                 |   
+| CRIM 208    | Drugs, Alcohol and Crime    |   
+| CRIM 345    | Criminological Perspectives |    
+| CRIM 305 \# | Working With Offenders      |    |
 
 ::: footer
 \*Available in T3
 
 \# Not offered in 2025
 :::
+
+
+## Counselling Minor {.smaller}
+
+### (Optional) + electives (12cps)
+
+| Unit code   | Name                        |   
+|----------------------|-----------------------------|
+| HLTH 325  | Assessment and Management of Issues with Substance Abuse and Dependence    | 
+| HSCS 100 \*   | The Contemporary Counsellor   | 
+| HSCS 200   | Culturally Responsive Counselling |   
+| HSCS 202  | Lifespan development      | 
+| HSCS 204  | Ethics, Law & Professional Practice     | 
+| HSCS 435  | The Skilled Counsellor      | 
+| HSCS 452 \* | Applied Counselling Theories |
+| HSSW 307 | Suicide Prevention, Intervention and Postvention |
+
+
+::: footer
+\*Available in T3
+
+:::
+
 
 ## Other electives of interest {.smaller}
 
